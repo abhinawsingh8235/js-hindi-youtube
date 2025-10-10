@@ -60,6 +60,10 @@ let userTwo = userOne
 userTwo.email = "abhinaw@gmail.com"
 
 console.log(userOne.email);
+<<<<<<< HEAD
 console.log(userTwo.email);
 
 
+=======
+console.log(userTwo.email);
+>>>>>>> 38788fdf887533a24200faad64d1151e1f95bde6

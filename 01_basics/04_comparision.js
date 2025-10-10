@@ -18,6 +18,7 @@
    console.log(undefined < 0);  */
 
 // ===
+<<<<<<< HEAD
 console.log("2" === 2);
 
 
@@ -30,3 +31,6 @@ console.log("2" === 2);
 
 
 
+=======
+console.log("2" === 2);
+>>>>>>> 38788fdf887533a24200faad64d1151e1f95bde6

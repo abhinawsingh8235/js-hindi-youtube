@@ -34,6 +34,7 @@ console.log(url.includes('sundar'));
 
 console.log(gameName.split(' '));
 
+<<<<<<< HEAD
 
 
 
@@ -44,3 +45,5 @@ console.log(gameName.split(' '));
 
 
 
+=======
+>>>>>>> 38788fdf887533a24200faad64d1151e1f95bde6

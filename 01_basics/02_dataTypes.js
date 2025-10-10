@@ -9,7 +9,11 @@ console.log(3
 console.log("abhinaw")    
 
 
+<<<<<<< HEAD
 let name = "abhinaw";
+=======
+let name = "abhinaw"
+>>>>>>> 38788fdf887533a24200faad64d1151e1f95bde6
 let age = 18
 let isLoggedIn = false
 let state;

@@ -31,6 +31,7 @@ console.log(Math.floor(Math.random()*10) + 1);
 
 const min = 10
 const max = 20
+<<<<<<< HEAD
 // formula to find in the particular
 console.log(Math.floor(Math.random() * (max - min + 1) + min));
 
@@ -45,3 +46,9 @@ console.log(Math.floor(Math.random() * (max - min + 1) + min));
 
 
 
+=======
+// formula to find in the particular range
+console.log(Math.floor(Math.random() * (max - min + 1) + min));
+
+
+>>>>>>> 38788fdf887533a24200faad64d1151e1f95bde6
